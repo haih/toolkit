@@ -1,0 +1,13 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   pom.xml
+#	new file:   src/main/java/com/haih/toolkit/App.java
+#	new file:   src/main/java/com/haih/toolkit/StringUtils.java
+#	new file:   src/test/java/com/haih/toolkit/AppTest.java
+#
+
